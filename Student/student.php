@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Student</title>
 </head>
 <body>
     <h1>Student info</h1>
 
-    <?php
+<!--     <?php
         // $fullname = "Boltaev Islomjon";
         // $year = 2000;
 
@@ -18,7 +18,7 @@
 
         // echo "<p>Fullname: $student[0]</p>";
         // echo "<p>Birth year: $student[1]</p>";
-?>
+?> -->
         <form action="info.php">
             <input type="text" name="fullname" placeholder="Fullname">;
             <br></br>
