@@ -15,13 +15,6 @@
 
     move_uploaded_file($image['tmp_name'], 'images/' .$name. "JPG");
     echo "<p>Name"
-        <?php
-    $name = $_POST['name'];
-    $password = $_POST['password'];
-    $image = $_FILES['image'];
-
-
-    move_uploaded_file($image['tmp_name'], 'images/' .$name. "JPG");
-    echo "<p>Name"
+   ?>
 </body>
 </html>
