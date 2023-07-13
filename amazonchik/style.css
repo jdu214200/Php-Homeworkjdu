@@ -1,0 +1,25 @@
+.product {
+    background-color: aquamarine;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+a.btn {
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline-block;
+    margin-bottom: 10px;
+}
